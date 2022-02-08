@@ -1,5 +1,6 @@
 package epam.com.testautomation;
 
+import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
@@ -16,5 +17,10 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+    }
+    public void testString() {
+    	App app=new App();
+    	String g=app.sendMsg();
+    	assertEquals(g,"hello");
     }
 }
