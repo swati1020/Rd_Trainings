@@ -8,10 +8,10 @@ import Calulator.CalClass;
 
 public class CalClassTest extends CalClass {
 	
-	protected void setUp() throws Exception{
-		super.setUp();
-		CalClass c= new CalClass();
-	}
+//	protected void setUp() throws Exception{
+//		super.setUp();
+//		CalClass c= new CalClass();
+//	}
 
 		@Test
 		public void add1() {

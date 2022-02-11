@@ -14,10 +14,10 @@ public class CalClass {
 	public int div(int a,int b) {
 		return a/b;
 	}
-	protected void setUp() throws Exception {
-		// TODO Auto-generated method stub
-		
-	}
+//	protected void setUp() throws Exception {
+//		// TODO Auto-generated method stub
+//		
+//	}
 	
 
 
