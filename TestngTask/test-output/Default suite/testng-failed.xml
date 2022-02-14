@@ -5,7 +5,7 @@
     <classes>
       <class name="TestAutomation.testng.exception.TestLibrary">
         <methods>
-          <include name="issuedBook"/>
+          <include name="testAddMembers" invocation-numbers="0 1 2"/>
           <include name="testaddMember1"/>
         </methods>
       </class> <!-- TestAutomation.testng.exception.TestLibrary -->

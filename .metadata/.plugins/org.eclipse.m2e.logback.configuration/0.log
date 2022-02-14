@@ -1582,3 +1582,272 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated 
 2022-02-12 00:10:15,392 [Worker-213: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\main\resources
 2022-02-12 00:10:15,393 [Worker-213: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-02-12 00:10:15,393 [Worker-213: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\test\resources
+2022-02-12 00:16:32,961 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 00:16:32,962 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\main\resources
+2022-02-12 00:16:32,964 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 00:16:32,964 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\test\resources
+2022-02-12 00:16:33,008 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 00:16:33,013 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 00:16:33,028 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 00:16:33,029 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 00:21:32,982 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 00:21:32,984 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 00:21:32,985 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 00:21:32,986 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 00:24:43,359 [Worker-221: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 00:24:43,359 [Worker-221: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\main\resources
+2022-02-12 00:24:43,360 [Worker-221: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 00:24:43,361 [Worker-221: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\test\resources
+2022-02-12 00:25:31,783 [Worker-210: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 00:25:31,784 [Worker-210: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\main\resources
+2022-02-12 00:25:31,785 [Worker-210: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 00:25:31,785 [Worker-210: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\test\resources
+2022-02-12 20:14:38,822 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-02-12 20:14:40,022 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2022-02-12 20:16:50,470 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:16:50,479 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 20:16:50,495 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:16:50,495 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 20:20:26,567 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:20:26,577 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 20:20:26,583 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:20:26,583 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 20:20:37,365 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:20:37,367 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 20:20:37,374 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:20:37,375 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 20:20:43,895 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:20:43,896 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 20:20:43,902 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:20:43,903 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 20:20:49,672 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:20:49,673 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 20:20:49,677 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:20:49,678 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 20:35:41,255 [Worker-23: Launching TestLibrary.displayingNumbers] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:35:41,256 [Worker-23: Launching TestLibrary.displayingNumbers] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 20:35:41,259 [Worker-23: Launching TestLibrary.displayingNumbers] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:35:41,259 [Worker-23: Launching TestLibrary.displayingNumbers] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 20:42:03,460 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:42:03,462 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 20:42:03,466 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:42:03,466 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 20:45:54,013 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:45:54,014 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\main\resources
+2022-02-12 20:45:54,029 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:45:54,030 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 20:46:28,896 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:46:28,897 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\main\resources
+2022-02-12 20:46:28,903 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 20:46:28,910 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 21:36:36,703 [Worker-35: Launching TestLibrary] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:36:36,705 [Worker-35: Launching TestLibrary] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 21:36:36,707 [Worker-35: Launching TestLibrary] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:36:36,708 [Worker-35: Launching TestLibrary] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 21:42:25,623 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:testautomation:0.0.1-SNAPSHOT @ C:\Users\Swati_Deshwal\TestAutomation\testautomation\pom.xml.
+2022-02-12 21:42:28,073 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9.jar
+2022-02-12 21:42:28,073 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+2022-02-12 21:42:28,073 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar
+2022-02-12 21:42:28,073 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.5.2/opencsv-5.5.2.jar
+2022-02-12 21:42:31,281 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-12 21:42:35,007 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9.jar
+2022-02-12 21:42:35,368 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.5.2/opencsv-5.5.2.jar
+2022-02-12 21:42:49,112 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+2022-02-12 21:42:56,417 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar
+2022-02-12 21:42:57,683 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:42:57,684 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\main\resources
+2022-02-12 21:42:57,689 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:42:57,696 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 21:42:59,065 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:42:59,065 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\main\resources
+2022-02-12 21:42:59,069 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:42:59,075 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 21:43:00,264 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.5.2/opencsv-5.5.2-sources.jar
+2022-02-12 21:43:01,096 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:43:01,097 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\main\resources
+2022-02-12 21:43:01,099 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:43:01,100 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 21:43:01,418 [Worker-30: Launching testautomation (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Swati_Deshwal\TestAutomation\testautomation
+2022-02-12 21:43:01,420 [Worker-30: Launching testautomation (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-12 21:43:02,022 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.5.2/opencsv-5.5.2-sources.jar
+2022-02-12 21:43:02,143 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.opencsv:opencsv:5.5.2
+2022-02-12 21:43:03,295 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0-sources.jar
+2022-02-12 21:43:05,544 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0-sources.jar
+2022-02-12 21:43:05,638 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.12.0
+2022-02-12 21:43:07,002 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9-sources.jar
+2022-02-12 21:43:08,941 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9-sources.jar
+2022-02-12 21:43:09,030 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-text:1.9
+2022-02-12 21:43:10,159 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4-sources.jar
+2022-02-12 21:43:11,553 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4-sources.jar
+2022-02-12 21:43:11,862 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.9.4
+2022-02-12 21:43:13,055 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar
+2022-02-12 21:43:14,989 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar
+2022-02-12 21:43:15,116 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-collections4:4.4
+2022-02-12 21:43:15,345 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:43:15,345 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\main\resources
+2022-02-12 21:43:15,349 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:43:15,349 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 21:45:04,775 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:45:04,776 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 21:45:04,778 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:45:04,778 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 21:45:37,534 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:testautomation:0.0.1-SNAPSHOT @ C:\Users\Swati_Deshwal\TestAutomation\testautomation\pom.xml.
+2022-02-12 21:45:37,945 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:45:37,946 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\main\resources
+2022-02-12 21:45:37,950 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:45:37,955 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 21:46:20,475 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:46:20,476 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 21:46:20,480 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:46:20,480 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 21:54:51,132 [Worker-41: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:54:51,133 [Worker-41: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 21:54:51,136 [Worker-41: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:54:51,136 [Worker-41: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 21:54:51,295 [Worker-41: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:54:51,297 [Worker-41: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 21:54:51,318 [Worker-41: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:54:51,319 [Worker-41: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\test\resources
+2022-02-12 21:56:32,192 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:56:32,193 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 21:56:32,196 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:56:32,197 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 21:56:32,210 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:56:32,211 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 21:56:32,217 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:56:32,217 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\test\resources
+2022-02-12 21:56:39,270 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:56:39,271 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 21:56:39,272 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:56:39,273 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 21:57:03,289 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:57:03,290 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 21:57:03,300 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 21:57:03,300 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\test\resources
+2022-02-12 22:02:51,698 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:02:51,702 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:02:51,712 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:02:51,713 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 22:03:05,839 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:03:05,841 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:03:05,848 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:03:05,848 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-12 22:04:00,482 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:04:00,483 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 22:04:00,487 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:04:00,487 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\test\resources
+2022-02-12 22:04:04,474 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:04:04,475 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\main\resources
+2022-02-12 22:04:04,478 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:04:04,478 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\test\resources
+2022-02-12 22:05:03,444 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:05:03,445 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:05:03,446 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:05:03,447 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 22:05:20,106 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:05:20,106 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:05:20,109 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:05:20,110 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 22:06:15,206 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:TestngTask:0.0.1-SNAPSHOT @ C:\Users\Swati_Deshwal\TestAutomation\TestngTask\pom.xml.
+2022-02-12 22:06:15,573 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:06:15,574 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:06:15,577 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:06:15,579 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 22:06:16,117 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:06:16,118 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:06:16,119 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:06:16,121 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 22:18:12,881 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:18:12,881 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:18:12,882 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:18:12,883 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 22:20:56,620 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:20:56,620 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:20:56,621 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:20:56,622 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 22:21:11,559 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:TestngTask:0.0.1-SNAPSHOT @ C:\Users\Swati_Deshwal\TestAutomation\TestngTask\pom.xml.
+2022-02-12 22:21:11,730 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:21:11,730 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:21:11,732 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:21:11,733 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 22:53:42,126 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:53:42,127 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:53:42,128 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:53:42,129 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 22:55:12,740 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:55:12,740 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:55:12,741 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:55:12,742 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 22:58:02,192 [Worker-30: Launching TestngTask (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Swati_Deshwal\TestAutomation\TestngTask
+2022-02-12 22:58:02,192 [Worker-30: Launching TestngTask (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-12 22:58:02,238 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:58:02,238 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 22:58:02,239 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 22:58:02,240 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 23:02:45,953 [Worker-38: Launching TestLibrary.testAddMembers] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:02:45,953 [Worker-38: Launching TestLibrary.testAddMembers] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 23:02:45,955 [Worker-38: Launching TestLibrary.testAddMembers] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:02:45,955 [Worker-38: Launching TestLibrary.testAddMembers] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 23:03:56,476 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:03:56,476 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 23:03:56,477 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:03:56,478 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 23:05:04,104 [Worker-47: Launching TestLibrary.testAddMembers] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:05:04,105 [Worker-47: Launching TestLibrary.testAddMembers] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 23:05:04,106 [Worker-47: Launching TestLibrary.testAddMembers] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:05:04,107 [Worker-47: Launching TestLibrary.testAddMembers] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 23:05:59,982 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:05:59,983 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 23:05:59,984 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:05:59,984 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 23:07:28,314 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:07:28,314 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 23:07:28,316 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:07:28,317 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 23:10:08,077 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:10:08,077 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-12 23:10:08,080 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 23:10:08,082 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-14 08:50:43,081 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-02-14 08:50:43,542 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2022-02-14 08:50:44,834 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-osgi:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-02-14 08:50:45,313 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 08:50:45,314 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\main\resources
+2022-02-14 08:50:45,316 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 08:50:45,316 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\test\resources
+2022-02-14 08:50:45,653 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 08:50:45,653 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-14 08:50:45,655 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 08:50:45,659 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-14 08:50:46,214 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 08:50:46,214 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\main\resources
+2022-02-14 08:50:46,216 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 08:50:46,216 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\testautomation\src\test\resources
+2022-02-14 08:59:51,353 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 08:59:51,355 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\main\resources
+2022-02-14 08:59:51,356 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 08:59:51,357 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\TestngTask\src\test\resources
+2022-02-14 09:02:04,599 [Worker-24: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 09:02:04,599 [Worker-24: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\main\resources
+2022-02-14 09:02:04,600 [Worker-24: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 09:02:04,600 [Worker-24: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\test\resources
+2022-02-14 09:02:36,803 [Worker-14: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 09:02:36,803 [Worker-14: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\main\resources
+2022-02-14 09:02:36,804 [Worker-14: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 09:02:36,805 [Worker-14: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\test\resources
+2022-02-14 09:04:39,284 [Worker-14: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 09:04:39,285 [Worker-14: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\main\resources
+2022-02-14 09:04:39,286 [Worker-14: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 09:04:39,287 [Worker-14: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\test\resources
+2022-02-14 09:06:11,120 [Worker-26: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 09:06:11,120 [Worker-26: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\main\resources
+2022-02-14 09:06:11,121 [Worker-26: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 09:06:11,121 [Worker-26: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\test\resources
+2022-02-14 09:34:54,570 [Worker-36: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 09:34:54,571 [Worker-36: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\main\resources
+2022-02-14 09:34:54,575 [Worker-36: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 09:34:54,575 [Worker-36: Launching ApiAssignment.noUnauthenticationUserGetData] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\test\resources
+2022-02-14 10:40:23,655 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 10:40:23,656 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\main\resources
+2022-02-14 10:40:23,660 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-14 10:40:23,660 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Swati_Deshwal\TestAutomation\RestAssured\src\test\resources

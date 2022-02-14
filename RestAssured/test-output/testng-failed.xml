@@ -7,6 +7,7 @@
         <methods>
           <include name="setup"/>
           <include name="noUnauthenticationUserGetData"/>
+          <include name="testPostObjectGETResponse"/>
         </methods>
       </class> <!-- epam.com.RestAssured.ApiAssignment -->
     </classes>

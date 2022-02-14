@@ -13,10 +13,7 @@ public class MemberClass {
 	int Age;
 	Boolean Status;
 	public ArrayList<Integer> issuedBookList;
-	
-	MemberClass(){
-		
-	}
+
 
   public MemberClass(int MemberID, String Firstname, String Lastname,String City, int Age, Boolean Status) {
 		this.MemberID = MemberID;

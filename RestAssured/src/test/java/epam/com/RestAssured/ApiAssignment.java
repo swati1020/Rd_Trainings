@@ -67,20 +67,15 @@ public class ApiAssignment {
 	}
 	@Test
 	public static void noUnauthenticationUserGetData() {
+		String url="http://restapi.adequateshop.com/api/users?page=1";
 		 given()
          .header("Content-type","application/json")
           .and()
-       .when()//Execute
-         .get("http://restapi.adequateshop.com/api/users?page=1")
-         .then()// verification
-        .statusCode(200);
-		 given()
-		 .header("Content-type","application/json")
-		 .and()
-		 .header("authorization", "bearer 46704a72-4992-4c6c-8f09-bc21e71af35e")
-		 .get()
-		 .then()//Execute
-		  .statusCode(200);
+        .header("authorization", "bearer 46704a72-4992-4c6c-8f09-bc21e71af35e")
+		 .when()//Execute
+		 .get(url)
+		 .then()//Verification
+		  .statusCode(401);
 		
 	}
 	
