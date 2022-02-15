@@ -15,6 +15,14 @@ import static io.restassured.RestAssured.*;
 
 @Test
 public class ApiAssignment {
+	
+	public static String token;
+	int random;
+	static int ran;
+	@BeforeClass
+	public static void setup() {
+		RestAssured.baseURI="http://restapi.adequateshop.com";
+	}
 	@Test
 	public static void testPostObjectGETResponse() {
 		given()
@@ -23,10 +31,7 @@ public class ApiAssignment {
 		.then()
 		.statusCode(200);
 	}
-	@BeforeClass
-	public static void setup() {
-		RestAssured.baseURI="http://restapi.adequateshop.com";
-	}
+	
 	@Test
 	public static void testPostObjectResigtrator() {
 //		String str="http://restapi.adequateshop.com/api/authaccount/registration";
@@ -55,6 +60,8 @@ public class ApiAssignment {
 				+ "    \"email\":\"123@gmail.com\",\r\n"
 				+ "    \"password\": 123456\r\n"
 				+ "}";
+		Random random=new Random();
+		ran= random.nextInt();
 			    		
              given()
              .header("Content-type","application/json")
@@ -65,19 +72,33 @@ public class ApiAssignment {
              .then()// verification
             .statusCode(200);
 	}
+	
 	@Test
 	public static void noUnauthenticationUserGetData() {
 		String url="http://restapi.adequateshop.com/api/users?page=1";
+		token="46704a72-4992-4c6c-8f09-bc21e71af35e";
 		 given()
-         .header("Content-type","application/json")
-          .and()
-        .header("authorization", "bearer 46704a72-4992-4c6c-8f09-bc21e71af35e")
+//        .header("authorization", "bearer 46704a72-4992-4c6c-8f09-bc21e71af35e")
+		 .header("authorization", token)
 		 .when()//Execute
 		 .get(url)
 		 .then()//Verification
 		  .statusCode(401);
 		
 	}
+	@Test
+	public static void testAuthenticationUserData() {
+		String userUrl="http://restapi.adequateshop.com/api/users?page=1";
+		given()
+		.header("authorization", "bearer"+ token)
+//		.queryParam("page", 1)
+		.when()
+		.get(userUrl)
+		.then()
+		.statusCode(200);
+//		.body("page", equalTo(1));
+		
 	
+	}
 }
 
