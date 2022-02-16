@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="epam.com.SeleniumTestCases.TestWebDriver">
+      <class name="epam.com.SeleniumTestCases.UiAutomationFactoryAssignment2">
         <methods>
-          <include name="LoadWebDriver"/>
+          <include name="factory"/>
         </methods>
-      </class> <!-- epam.com.SeleniumTestCases.TestWebDriver -->
+      </class> <!-- epam.com.SeleniumTestCases.UiAutomationFactoryAssignment2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
