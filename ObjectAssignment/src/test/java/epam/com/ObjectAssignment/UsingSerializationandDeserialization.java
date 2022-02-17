@@ -25,9 +25,7 @@ public class UsingSerializationandDeserialization {
 	String url= "https://jsonplaceholder.typicode.com/posts";
 	//Converting the object to json
 	String json =MAPPER.writeValueAsString(member);
-	Response res = RestAssured.given()
-//			.log()
-//			.all()
+	Response res = RestAssured.given()		
 			.header("Content-Type", "application/json")
 			.body(json)
 			.when()
@@ -39,7 +37,7 @@ public class UsingSerializationandDeserialization {
 		String url= "https://jsonplaceholder.typicode.com/3";
 		MemberDetails mem=  RestAssured.given()
 				.get(url).as(MemberDetails.class);
-//		System.out.println(mem.toString());
+		System.out.println(mem.toString());
 		
 		
 	}

@@ -17,8 +17,7 @@ import static io.restassured.RestAssured.*;
 public class ApiAssignment {
 	
 	public static String token;
-	int random;
-	static int ran;
+	
 	@BeforeClass
 	public static void setup() {
 		RestAssured.baseURI="http://restapi.adequateshop.com";
@@ -60,8 +59,6 @@ public class ApiAssignment {
 				+ "    \"email\":\"123@gmail.com\",\r\n"
 				+ "    \"password\": 123456\r\n"
 				+ "}";
-		Random random=new Random();
-		ran= random.nextInt();
 			    		
              given()
              .header("Content-type","application/json")
@@ -91,12 +88,11 @@ public class ApiAssignment {
 		String userUrl="http://restapi.adequateshop.com/api/users?page=1";
 		given()
 		.header("authorization", "bearer"+ token)
-//		.queryParam("page", 1)
 		.when()
 		.get(userUrl)
 		.then()
-		.statusCode(200);
-//		.body("page", equalTo(1));
+		.statusCode(200)
+		.body("page", equalTo(1));
 		
 	
 	}
