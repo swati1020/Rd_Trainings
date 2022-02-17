@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage">
+      <class name="epam.com.SeleniumTestCases.RadioButtonandCheckBox">
         <methods>
-          <include name="setup"/>
-          <include name="testLoginEnteringWrongPassword"/>
+          <include name="radioButton"/>
         </methods>
-      </class> <!-- epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage -->
+      </class> <!-- epam.com.SeleniumTestCases.RadioButtonandCheckBox -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

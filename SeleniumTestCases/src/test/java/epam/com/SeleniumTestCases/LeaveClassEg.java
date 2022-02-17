@@ -28,13 +28,13 @@ public class LeaveClassEg {
 		//click on apply leave
 		driver.findElement(By.xpath("//*[@id=\"menu_leave_applyLeave\"]/span[2]")).click();
 		//dropdown
-		driver.findElement(By.xpath("//*[@id=\"leaveType_inputfileddiv\"]/div/input")).click();
+//		driver.findElement(By.xpath("//*[@id=\"leaveType_inputfileddiv\"]/div/input")).click();
 		
 		//for date
-//		driver.findElement(By.xpath("//div/span[@caret]//parent::div")).click();
-//		
-		driver.findElement(By.xpath("//li/span[contains(text(),'Sick Leave - US')]")).click();
-		driver.findElement(By.xpath("//span/span/i")).click();
+		driver.findElement(By.xpath("/html/body/div[1]/div/div/div[2]/section/div[2]/ui-view/div/div/form/div[1]/materializecss-decorator[1]/div/sf-decorator[1]/div/div/input")).click();
+//		/html/body/div[1]/div/div/div[2]/section/div[2]/ui-view/div/div/form/div[1]/materializecss-decorator[1]/div/sf-decorator[1]/div/div/ul/li[5]/span
+		driver.findElement(By.xpath("/html/body/div[1]/div/div/div[2]/section/div[2]/ui-view/div/div/form/div[1]/materializecss-decorator[1]/div/sf-decorator[1]/div/div/ul/li[5]/span")).click();
+		driver.findElement(By.xpath("")).click();
 	    }
 	}
 

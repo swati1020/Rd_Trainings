@@ -51,7 +51,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Automation" class="navigator-link ">
-                    <span>C:\Users\Swati_Deshwal\TestAutomation\SeleniumTestCases\src\test\chrome.xml</span>
+                    <span>C:\Users\Swati_Deshwal\TestAutomation\SeleniumTestCases\src\test\chromebutton.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -93,7 +93,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">3 methods, 1 failed,   2 passed</span>
+                    <span class="method-stats">1 method, 1 failed,   </span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -104,29 +104,10 @@
                     <div class="method-list-content failed suite-Automation">
                       <span>
                         <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Automation" title="epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage" class="method navigator-link" hash-for-method="testLoginEnteringWrongPassword">testLoginEnteringWrongPassword</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Automation" title="epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton" class="method navigator-link" hash-for-method="radioButton">radioButton</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Automation -->
-                  </li>
-                  <li>
-                    <span class="method-list-title passed">Passed methods</span>
-                    <span class="show-or-hide-methods passed">
-                      <a href="#" panel-name="suite-Automation" class="hide-methods passed suite-Automation"> (hide)</a> <!-- hide-methods passed suite-Automation -->
-                      <a href="#" panel-name="suite-Automation" class="show-methods passed suite-Automation"> (show)</a> <!-- show-methods passed suite-Automation -->
-                    </span>
-                    <div class="method-list-content passed suite-Automation">
-                      <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Automation" title="epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage" class="method navigator-link" hash-for-method="testLoginFunctionality">testLoginFunctionality</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Automation" title="epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage" class="method navigator-link" hash-for-method="testLogingToAnotherBrowser">testLogingToAnotherBrowser</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content passed suite-Automation -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -141,49 +122,44 @@
           <div class="suite-Automation-class-failed">
             <div class="main-panel-header rounded-window-top">
               <img src="failed.png"/>
-              <span class="class-name">epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage</span>
+              <span class="class-name">epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="testLoginEnteringWrongPassword">
-                  </a> <!-- testLoginEnteringWrongPassword -->
-                  <span class="method-name">testLoginEnteringWrongPassword</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage.testLoginEnteringWrongPassword(TestOrangeHRMLoginPage.java:43)
+                  <a name="radioButton">
+                  </a> <!-- radioButton -->
+                  <span class="method-name">radioButton</span>
+                  <div class="stack-trace">org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.82)
+Build info: version: &apos;4.1.2&apos;, revision: &apos;9a5a329c5a&apos;
+System info: host: &apos;EPINPUNW039D&apos;, ip: &apos;192.168.0.105&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [012cc506a183aa3b2c63f37773f637a1, clickElement {id=e436ce02-92ea-478a-a726-4e815c3f0138}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\SWATI_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54154/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (012cc506a183aa3b2c63f37773f637a1)] -&gt; xpath: //div/input[@id=&quot;26Dairy-Free&quot;]]
+Session ID: 012cc506a183aa3b2c63f37773f637a1
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton.radioButton(RadioButton.java:42)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 31 stack frames
+... Removed 32 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Automation-class-failed -->
-          <div class="suite-Automation-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="testLoginFunctionality">
-                  </a> <!-- testLoginFunctionality -->
-                  <span class="method-name">testLoginFunctionality</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="testLogingToAnotherBrowser">
-                  </a> <!-- testLogingToAnotherBrowser -->
-                  <span class="method-name">testLogingToAnotherBrowser</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Automation-class-passed -->
         </div> <!-- panel Automation -->
         <div panel-name="test-xml-Automation" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\Swati_Deshwal\TestAutomation\SeleniumTestCases\src\test\chrome.xml</span>
+            <span class="header-content">C:\Users\Swati_Deshwal\TestAutomation\SeleniumTestCases\src\test\chromebutton.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -193,7 +169,7 @@
   &lt;test thread-count=&quot;5&quot; name=&quot;SeleniumAutomation&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage&quot;/&gt;
+      &lt;class name=&quot;epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- SeleniumAutomation --&gt;
 &lt;/suite&gt; &lt;!-- Automation --&gt;
@@ -233,24 +209,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(3);
+data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'testLogingToAnotherBrowser')
-data.setCell(0, 2, 'epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage')
-data.setCell(0, 3, 6227);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'testLoginEnteringWrongPassword')
-data.setCell(1, 2, 'epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage')
-data.setCell(1, 3, 5090);
-data.setCell(2, 0, 2)
-data.setCell(2, 1, 'testLoginFunctionality')
-data.setCell(2, 2, 'epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage')
-data.setCell(2, 3, 1613);
+data.setCell(0, 1, 'radioButton')
+data.setCell(0, 2, 'epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton')
+data.setCell(0, 3, 48313);
 window.suiteTableData['Automation']= { tableData: data, tableDiv: 'times-div-Automation'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 12 seconds</span>
+              <span class="suite-total-time">Total running time: 48 seconds</span>
               <div id="times-div-Automation">
               </div> <!-- times-div-Automation -->
             </div> <!-- times-div -->
@@ -276,7 +244,7 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup(chrome)</span>
                 <span class="method-start">0 ms</span>
@@ -284,16 +252,8 @@ return data;
               <div class="test-method">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">testLoginEnteringWrongPassword</span>
-                <span class="method-start">5654 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">testLoginFunctionality</span>
-                <span class="method-start">10759 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">testLogingToAnotherBrowser</span>
-                <span class="method-start">12376 ms</span>
+                <span class="method-name">radioButton</span>
+                <span class="method-start">3499 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

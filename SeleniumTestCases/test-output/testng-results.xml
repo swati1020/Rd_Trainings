@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-17T16:56:42 IST" name="Automation" finished-at="2022-02-17T16:57:00 IST" duration-ms="18639">
+  <suite started-at="2022-02-17T23:09:18 IST" name="Automation" finished-at="2022-02-17T23:10:10 IST" duration-ms="51871">
     <groups>
     </groups>
-    <test started-at="2022-02-17T16:56:42 IST" name="SeleniumAutomation" finished-at="2022-02-17T16:57:00 IST" duration-ms="18639">
-      <class name="epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage@7d4f9aae]" started-at="2022-02-17T16:56:42 IST" name="setup" finished-at="2022-02-17T16:56:47 IST" duration-ms="5623" status="PASS">
+    <test started-at="2022-02-17T23:09:18 IST" name="SeleniumAutomation" finished-at="2022-02-17T23:10:10 IST" duration-ms="51871">
+      <class name="epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton@b9b00e0]" started-at="2022-02-17T23:09:18 IST" name="setup" finished-at="2022-02-17T23:09:22 IST" duration-ms="3471" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,18 +18,44 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginEnteringWrongPassword()[pri:0, instance:epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage@7d4f9aae]" started-at="2022-02-17T16:56:47 IST" name="testLoginEnteringWrongPassword" finished-at="2022-02-17T16:56:53 IST" duration-ms="5090" status="FAIL">
-          <exception class="java.lang.AssertionError">
+        <test-method signature="radioButton()[pri:0, instance:epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton@b9b00e0]" started-at="2022-02-17T23:09:22 IST" name="radioButton" finished-at="2022-02-17T23:10:10 IST" duration-ms="48313" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
             <message>
-              <![CDATA[expected [true] but found [false]]]>
+              <![CDATA[element not interactable
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'EPINPUNW039D', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [012cc506a183aa3b2c63f37773f637a1, clickElement {id=e436ce02-92ea-478a-a726-4e815c3f0138}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\SWATI_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54154/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (012cc506a183aa3b2c63f37773f637a1)] -> xpath: //div/input[@id="26Dairy-Free"]]
+Session ID: 012cc506a183aa3b2c63f37773f637a1]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:110)
-at org.testng.Assert.failNotEquals(Assert.java:1413)
-at org.testng.Assert.assertTrue(Assert.java:56)
-at org.testng.Assert.assertTrue(Assert.java:66)
-at epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage.testLoginEnteringWrongPassword(TestOrangeHRMLoginPage.java:43)
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'EPINPUNW039D', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [012cc506a183aa3b2c63f37773f637a1, clickElement {id=e436ce02-92ea-478a-a726-4e815c3f0138}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\SWATI_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54154/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (012cc506a183aa3b2c63f37773f637a1)] -> xpath: //div/input[@id="26Dairy-Free"]]
+Session ID: 012cc506a183aa3b2c63f37773f637a1
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton.radioButton(RadioButton.java:42)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -60,19 +86,11 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLoginEnteringWrongPassword -->
-        <test-method signature="testLoginFunctionality()[pri:0, instance:epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage@7d4f9aae]" started-at="2022-02-17T16:56:53 IST" name="testLoginFunctionality" finished-at="2022-02-17T16:56:54 IST" duration-ms="1613" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLoginFunctionality -->
-        <test-method signature="testLogingToAnotherBrowser()[pri:0, instance:epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage@7d4f9aae]" started-at="2022-02-17T16:56:54 IST" name="testLogingToAnotherBrowser" finished-at="2022-02-17T16:57:00 IST" duration-ms="6227" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLogingToAnotherBrowser -->
-      </class> <!-- epam.com.SeleniumTestCases.orangeHRMPOM.pages.TestOrangeHRMLoginPage -->
+        </test-method> <!-- radioButton -->
+      </class> <!-- epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton -->
     </test> <!-- SeleniumAutomation -->
   </suite> <!-- Automation -->
 </testng-results>
