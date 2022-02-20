@@ -26,7 +26,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -40,7 +40,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Automation" class="navigator-link">
-              <span class="suite-name border-failed">Automation</span>
+              <span class="suite-name border-skipped">Automation</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -51,7 +51,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Automation" class="navigator-link ">
-                    <span>C:\Users\Swati_Deshwal\TestAutomation\SeleniumTestCases\src\test\chromebutton.xml</span>
+                    <span>C:\Users\Swati_Deshwal\TestAutomation\SeleniumTestCases\src\test\chrome.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -93,21 +93,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method, 1 failed,   </span>
+                    <span class="method-stats">1 method,  1 skipped,  </span>
                   </li>
                   <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Automation" class="hide-methods failed suite-Automation"> (hide)</a> <!-- hide-methods failed suite-Automation -->
-                      <a href="#" panel-name="suite-Automation" class="show-methods failed suite-Automation"> (show)</a> <!-- show-methods failed suite-Automation -->
+                    <span class="method-list-title skipped">Skipped methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-Automation" class="hide-methods skipped suite-Automation"> (hide)</a> <!-- hide-methods skipped suite-Automation -->
+                      <a href="#" panel-name="suite-Automation" class="show-methods skipped suite-Automation"> (show)</a> <!-- show-methods skipped suite-Automation -->
                     </span>
-                    <div class="method-list-content failed suite-Automation">
+                    <div class="method-list-content skipped suite-Automation">
                       <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Automation" title="epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton" class="method navigator-link" hash-for-method="radioButton">radioButton</a> <!-- method navigator-link -->
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation" title="epam.com.SeleniumTestCases.LeaveClassEg" class="method navigator-link" hash-for-method="leave(firefox)">leave(firefox)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content failed suite-Automation -->
+                    </div> <!-- method-list-content skipped suite-Automation -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -119,26 +119,26 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Automation" class="panel Automation">
-          <div class="suite-Automation-class-failed">
+          <div class="suite-Automation-class-skipped">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton</span>
+              <img src="skipped.png"/>
+              <span class="class-name">epam.com.SeleniumTestCases.LeaveClassEg</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="radioButton">
-                  </a> <!-- radioButton -->
-                  <span class="method-name">radioButton</span>
-                  <div class="stack-trace">org.openqa.selenium.ElementNotInteractableException: element not interactable
-  (Session info: chrome=98.0.4758.82)
+                  <a name="leave(firefox)">
+                  </a> <!-- leave(firefox) -->
+                  <span class="method-name">leave</span>
+                  <span class="parameters">(firefox)</span>
+                  <div class="stack-trace">org.openqa.selenium.ElementClickInterceptedException: Element &lt;input id=&quot;from&quot; class=&quot;ng-pristine ng-untouched ng-empty ng-valid-pattern ng-valid-date-range ng-invalid ng-invalid-display-input-validity&quot; name=&quot;dateTextInput&quot; type=&quot;text&quot;&gt; is not clickable at point (483,255) because another element &lt;div&gt; obscures it
 Build info: version: &apos;4.1.2&apos;, revision: &apos;9a5a329c5a&apos;
-System info: host: &apos;EPINPUNW039D&apos;, ip: &apos;192.168.0.105&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [012cc506a183aa3b2c63f37773f637a1, clickElement {id=e436ce02-92ea-478a-a726-4e815c3f0138}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\SWATI_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54154/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on WINDOWS (012cc506a183aa3b2c63f37773f637a1)] -&gt; xpath: //div/input[@id=&quot;26Dairy-Free&quot;]]
-Session ID: 012cc506a183aa3b2c63f37773f637a1
+System info: host: &apos;EPINPUNW039D&apos;, ip: &apos;192.168.0.107&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [5e68b44d-7325-4a40-a3c0-de3eb83e5eb8, clickElement {id=1889f4d5-75f3-441c-a4ee-22b3eaa7617f}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 97.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220202182137, moz:debuggerAddress: localhost:59061, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 44812, moz:profile: C:\Users\Swati_Deshwal\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:59061/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Element: [[FirefoxDriver: firefox on WINDOWS (5e68b44d-7325-4a40-a3c0-de3eb83e5eb8)] -&gt; id: from]
+Session ID: 5e68b44d-7325-4a40-a3c0-de3eb83e5eb8
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
@@ -148,18 +148,18 @@ Session ID: 012cc506a183aa3b2c63f37773f637a1
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
 	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
 	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
-	at epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton.radioButton(RadioButton.java:42)
+	at epam.com.SeleniumTestCases.LeaveClassEg.leave(LeaveClassEg.java:45)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 32 stack frames
+... Removed 30 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Automation-class-failed -->
+          </div> <!-- suite-Automation-class-skipped -->
         </div> <!-- panel Automation -->
         <div panel-name="test-xml-Automation" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\Swati_Deshwal\TestAutomation\SeleniumTestCases\src\test\chromebutton.xml</span>
+            <span class="header-content">C:\Users\Swati_Deshwal\TestAutomation\SeleniumTestCases\src\test\chrome.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -167,9 +167,9 @@ Session ID: 012cc506a183aa3b2c63f37773f637a1
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite name=&quot;Automation&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;SeleniumAutomation&quot;&gt;
-    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;parameter name=&quot;browserName&quot; value=&quot;firefox&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton&quot;/&gt;
+      &lt;class name=&quot;epam.com.SeleniumTestCases.LeaveClassEg&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- SeleniumAutomation --&gt;
 &lt;/suite&gt; &lt;!-- Automation --&gt;
@@ -211,14 +211,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'radioButton')
-data.setCell(0, 2, 'epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton')
-data.setCell(0, 3, 48313);
+data.setCell(0, 1, 'leave')
+data.setCell(0, 2, 'epam.com.SeleniumTestCases.LeaveClassEg')
+data.setCell(0, 3, 0);
 window.suiteTableData['Automation']= { tableData: data, tableDiv: 'times-div-Automation'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 48 seconds</span>
+              <span class="suite-total-time">Total running time: 0 ms</span>
               <div id="times-div-Automation">
               </div> <!-- times-div-Automation -->
             </div> <!-- times-div -->
@@ -244,16 +244,16 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">epam.com.SeleniumTestCases.orangeHRMPOM.pages.RadioButton</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">epam.com.SeleniumTestCases.LeaveClassEg</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">setup(chrome)</span>
+                <img src="failed.png">
+                </img>
+                <span class="method-name">leave(firefox)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">radioButton</span>
-                <span class="method-start">3499 ms</span>
+                <span class="method-name">leave(firefox)</span>
+                <span class="method-start">70808 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

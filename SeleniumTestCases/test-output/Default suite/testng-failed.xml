@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="epam.com.SeleniumTestCases.RadioButtonandCheckBox">
+      <class name="epam.com.SeleniumTestCases.guru99.TestGuru99">
         <methods>
-          <include name="radioButton"/>
+          <include name="dragAndDrop"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- epam.com.SeleniumTestCases.RadioButtonandCheckBox -->
+      </class> <!-- epam.com.SeleniumTestCases.guru99.TestGuru99 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
