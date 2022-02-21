@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="epam.com.SeleniumTestCases.guru99.TestGuru99">
+      <class name="epam.com.SeleniumTool.LoginPageListnerImpl.TestLoginForListners">
         <methods>
-          <include name="dragAndDrop"/>
+          <include name="testfailure"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- epam.com.SeleniumTestCases.guru99.TestGuru99 -->
+      </class> <!-- epam.com.SeleniumTool.LoginPageListnerImpl.TestLoginForListners -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
